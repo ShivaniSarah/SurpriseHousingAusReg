@@ -20,10 +20,7 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Hence we can observe that both Lasso and Ridge regression are able to get test and train score. We can use either for the final model and would be going ahead with the Lasso model as it is performing slightly better than Ridge.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
